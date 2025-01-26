@@ -1,0 +1,8 @@
+0;Dan;Gaspar
+1;Stanca;Norina
+2;Dan;Pantiuc
+3;George;Dan
+4;Dacian;Gabor
+5;Puscas;Darius
+6;Darius;Dobos
+7;Maria;Gaspar
